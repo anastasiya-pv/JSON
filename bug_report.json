@@ -17,5 +17,5 @@
 "6": "Enter the credit card data",
 "7": "Press the button \"PAY NOW\""},
 
-"Expected Result": "On clicking the \"PAY NOW\"button  the money will be charged from user's credit card while the application display the information about successfully created order"
+"Expected Result": "On clicking the \"PAY NOW\"button  the money should be charged from user's credit card while the application displays the information about successfully created order"
 }
