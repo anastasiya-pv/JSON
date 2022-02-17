@@ -1,0 +1,21 @@
+cat preferences.json[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D>> preferences.json
+{"My favorite film": "The finest hours",
+"My favorite serial":"The master of sun",
+"My favorite food":"Sushi",
+"My favorite season":"Summer",
+"What country would I like to visit":"Korea"}[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[A[A[A[D[D[D {"My favorite film": "The finest hours",
+"My favorite serial": The master of sun",
+"My favorite food":"Sushi",
+"My favorite season":"Summer",
+"What country would I like to visit":"Korea"}
+{"My favorite film": "The finest hours",
+"My favorite serial": {"My favorite film": "The finest hours",
+"My favorite serial": The master of sun",
+"My favorite food":"Sushi",r",
+"My favorite season":"Summer",visit":"Korea"}
+"What country would I like to visit":"Korea"}
+{"My favorite film": "The finest hours",
+"My favorite serial": "The master of sun",
+"My favorite food": "Sushi",
+"My favorite season": "Summer",
+"What country would I like to visit": "Korea"}
